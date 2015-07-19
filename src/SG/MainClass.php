@@ -1,6 +1,6 @@
 <?php
 
-namespace PrisonCore;
+namespace SG;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
