@@ -1,0 +1,6 @@
+name: SurvivalGames-Simple
+version: 1.0
+api: 
+main: src\SG
+author: KyleTheHack3r
+description: A simple SurvivalGames plugin
