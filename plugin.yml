@@ -1,0 +1,6 @@
+name: HungerGames
+author: Various-artist
+version: 1.0.0
+description: Simple SurvivalGames
+main: src\SG
+api: [1.10.0]
